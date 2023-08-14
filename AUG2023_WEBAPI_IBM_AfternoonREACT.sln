@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstWithMigration", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "openAPISwaggerUIEg", "openAPISwaggerUIEg\openAPISwaggerUIEg.csproj", "{A6EE4336-4E8D-4E8E-9460-84F84ED02E6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomFormatters", "CustomFormatters\CustomFormatters.csproj", "{E10F01E0-61F6-4A4B-83AB-8D447F035BF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A6EE4336-4E8D-4E8E-9460-84F84ED02E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6EE4336-4E8D-4E8E-9460-84F84ED02E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6EE4336-4E8D-4E8E-9460-84F84ED02E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E10F01E0-61F6-4A4B-83AB-8D447F035BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10F01E0-61F6-4A4B-83AB-8D447F035BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10F01E0-61F6-4A4B-83AB-8D447F035BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10F01E0-61F6-4A4B-83AB-8D447F035BF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
